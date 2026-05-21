@@ -2,6 +2,25 @@
 
 <!-- version list -->
 
+## v0.14.0 (2026-05-21)
+
+### Bug Fixes
+
+- Make deepep imports lazy
+  ([`e2cd994`](https://github.com/d9d-project/d9d/commit/e2cd99467192b607a80337ae557ed06c4897bf85))
+
+### Features
+
+- Add embedding models
+  ([`fcd8f4e`](https://github.com/d9d-project/d9d/commit/fcd8f4ec0424b881f45f70239c26c62d014ed239))
+
+- Add RoPE scaling techniques
+  ([`92d6e0e`](https://github.com/d9d-project/d9d/commit/92d6e0eed4462ec0ee6cbdcff500965653b68bd2))
+
+- Make ModelStateMapperPrefixScope support different prefixes
+  ([`3195d80`](https://github.com/d9d-project/d9d/commit/3195d8095f7fe710ed4d6c1691ec66d1b36885df))
+
+
 ## v0.13.1 (2026-04-23)
 
 ### Bug Fixes
